@@ -99,3 +99,5 @@ Implements **JWT authentication**, role-based access, and PostgreSQL as the data
   ```
 
 ---
+⚠️ Note: Create a `.env` file with your PostgreSQL username/password before running.
+
